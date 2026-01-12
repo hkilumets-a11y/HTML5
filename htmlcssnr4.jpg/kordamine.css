@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.body{
+    background-color: gray;
+}
+ .container{
+    max-width: 800px;
+    height: 580px;
+    margin:auto; /*vaba ruum servades ehk keskele */
+    background-color: https://coolbackgrounds.io/
+}
+
+.header{
+    background-color: ;
+    color: #fff;
+}
+.nav{
+    background-color: #000;
+}
+
+.nav a{
+    color: #fff;
+    text-decoration: none;
+
+}
+.nav ul{
+    height: 40px;
+}
+.nav li{
+    display: block; /*teeb kastiks*/
+    float: left; /*joondab kastid vasaklue*/
+    line-height: 40px;
+    padding: 0 20px 0 0;
+    /* padding-right: 20px; TEEB SAMA ASJA */
+}
+    .content{
+        padding: 10px 20px;
+    }
+    .content p, h2{
+        padding: 10px 0;
+    }
+    .content img{
+        width: 100%;
+    }
+    .content ul{
+       margin-left: 20px;
+    }
+    .footer{
+        background-color: rgb(252, 252, 252);
+    }
